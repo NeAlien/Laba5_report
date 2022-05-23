@@ -3,7 +3,7 @@ name: Banking
 on:
   push:
       branches: 
-      - Master
+      - Main
       
 jobs:
 
